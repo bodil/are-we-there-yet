@@ -1,0 +1,61 @@
+"Engineer" used to be a protected academic title in Norway, where I grew up, equivalent to a Master of Science degree, but more special. I grew up believing that those who were granted the title had a deep understanding of what they were doing.
+
+Civil engineers understood down to the most minute detail how to build roads and bridges, and what would happen if you get it wrong.
+
+Chemical engineers designed and oversaw the processes burning in the oil refineries that fuelled the Norwegian economy.
+
+Mechanical engineers designed and built the oil rigs and supply ships.
+
+Engineers were the people who led the charge forward into the bright, oily future.
+
+I grew up, in short, thinking the word "engineer" held some special magic, some sort of confident infallibility. These people had their science figured out down to the smallest detail, I thought, and to some extent I still believe that.
+
+Then, when I was grown and started working as a programmer, I encountered the idea of "software engineering."
+
+And nobody had the slightest clue how to write good software, but everybody had an opinion.
+
+There was no demonstrably correct process for how to go about constructing and verifying software. But everybody had very strong opinions. Whether or not to write tests, and in which order. Whether static analysis was a waste of time or not, and if not, how many lines a function was allowed to be. Whether to write documentation or whether tests are better docs than docs.
+
+We didn't know anything about what makes a good programming language, or how to build one. But everybody had a language they swore was superior to any other. It was often the only language they knew. Sometimes it was XML.
+
+Nobody had any idea how to properly organise and manage the process of building software. But a lot of people were selling certifications.
+
+The only thing we could all agree on was that academics knew nothing about writing software in the real world. Academics were all useless posers spouting mathematical gibberish. "A monad is just a monoid in the category of endofunctors." Clearly trying to start a fight.
+
+Well, there was this guy Dijkstra, whose algorithm was pretty useful for network topology and such. But he probably couldn't write a Maven plugin to save his life.
+
+This is my story. This is the industry I grew up in.
+
+Now, let me be clear, I'm generalising. There's a part of the industry that's always stayed in touch with both science and academia. Usually this part has evolved in the crucible of hypercompetitive markets, such as investment banking. Where the best programs give you a measurable competitive edge, you go find the smartest people to write them. These people often come from academia, and if they don't, they'll still be up to date on the research. And a lot of them are probably here today.
+
+But the rest of us? We don't really care, we just need to deliver those features on the scrum board before the end of the sprint, and pray to Uncle Bob they don't come back as bugs, or we'll spoil the burndown chart.
+
+Or whatever the process jargon of the day may be. It doesn't matter - what matters is that the industry, for the most part, is a fashion driven clown show and we. Have. No. Idea. What. We're. Doing.
+
+This is a huge problem.
+
+Software is everywhere now. It's in cars. It's in medical devices. It's in things that could fall out of the sky and kill a lot of people if you put a bug in there.
+
+We're not at the point yet where individual developers are held legally liable for such accidents - perhaps only because we haven't had a sufficiently dramatic incident of this sort yet. We do know that individual developers can be held liable, along with their bosses, for software that breaks the law. The programmer who wrote the software for the cheating Volkswagen cars just got sentenced to a lot of jail time.
+
+So it's becoming apparent that we really do need to get our act together. Programming is a lovely hobby for a lot of people, but for more and more people doing it for a living, it's suddenly become Very Serious Business.
+
+And this is where I'd like some help, please.
+
+We have a huge problem of process, management, all that squishy humanities stuff that's necessary for building things at large scale. Someone more qualified will have to figure out that bit.
+
+But I need you to help build the hard science of solid engineering. To a surprisingly large extent, I think we're already there, but like the man said, the future is unevenly distributed outside of academia.
+
+We can perform amazing feats of formal verification, but we don't yet know how to make it readily accessible to everybody.
+
+We've already figured out a lot about the structure and composition of good software, but whenever we try to explain it to the average developer, they just think we're trying to start a fight.
+
+We need to figure out how to explain why this stuff is important, in the large as well as the small, even before we explain how to do it.
+
+We need to think in terms of a unified theory of software engineering. We have most of the pieces of the puzzle, and we need to get started on the work of putting them together into a coherent whole.
+
+And then we need to go teach it. Perhaps we even need to bring back that protected engineer title which says, without a doubt, "I know what I'm doing." At the very least, we need to make sure that critical software which could have a serious impact on people's lives is actually written by people qualified to do so, with the tools necessary to get it right. And there's more and more of that software every day.
+
+They figured out how to send dogs to the moon, so we've got to be able to figure out how to write software that isn't terrible.
+
+So let's get to work.
